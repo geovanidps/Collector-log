@@ -99,3 +99,4 @@ catch
 {
 echo "couldn't compress the the log folder "
 }
+#by Geovane Oliveira
