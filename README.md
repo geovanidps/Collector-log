@@ -1,4 +1,4 @@
-# Collector-log for Windows
+# Log-Collector for Windows
 Se trata de um coletor de log full para analise futura, o qual exporta os logs para .CSV ou .EVTX.
 A proposta e realizar a coleta de logs na máquina o qual possa estar passando por uma análise forense para evitar ao máximo contato com a máquina.
 
