@@ -1,5 +1,5 @@
 echo "---------------------------------------------------"
-echo "windows-log-collector-full-v2-2023..."
+echo "windows-log-collector-full-v4-2023..."
 echo "---------------------------------------------------"
 echo ""
 
@@ -206,7 +206,7 @@ echo "End"
 #by Geovane.oliveira
 
  
-#Extração de Usuarios do Azure AD
+#ExtraÃ§Ã£o de Usuarios do Azure AD
 #try
 #{
 #echo "Extracting AzureADs"
